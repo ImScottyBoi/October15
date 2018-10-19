@@ -17,7 +17,7 @@ public class Driver {
 		Animals animal = new Animals(type, height, legs, weight);
 		
 		System.out.println(animal.toString());
-		
+		System.out.println("Works?");
 	}
 
 }
